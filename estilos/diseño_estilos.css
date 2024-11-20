@@ -10,3 +10,7 @@ p{
     font-family: sans-serif;
     margin-left: 3rem;
 }
+ul{
+    background-color: #eeeb34;
+    border-radius: 10px;
+}
