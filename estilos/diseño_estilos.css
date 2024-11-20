@@ -1,0 +1,12 @@
+body{
+    font-style: italic;
+    background-color: rgba(117, 212, 212, 0.918);
+}
+h1{
+    color: blue;
+    font-size: 4rem;
+}
+p{
+    font-family: sans-serif;
+    margin-left: 3rem;
+}
